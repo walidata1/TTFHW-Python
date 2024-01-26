@@ -21,7 +21,8 @@ git clone https://github.com/walidata1/TTFHW-Python.git
 
 Alternatively, download the project as a ZIP file and extract it to your desired location.
 
-Step 3: Run Hello World
+### Step 3: Run Hello World
+
 Navigate to the project folder and run your first Hello World program by executing the following commands:
 
 ```bash
