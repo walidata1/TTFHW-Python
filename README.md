@@ -15,7 +15,7 @@ To run this project, you need the following prerequisites installed on your comp
 Clone this project to your local machine by running the following command in the terminal:
 
 ```bash
-git clone https://github.com/your-username/TTFHW-Python.git
+git clone https://github.com/walidata1/TTFHW-Python.git
 
 ```
 
